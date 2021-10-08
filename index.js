@@ -3,10 +3,7 @@ const app = express();
 const router = require("./routes/index")
 
 const msn = [
-    {
-        nombre: "Daniel",
-        msn: "hola pimpollo electrico!!"
-    }
+    
 
 ]
 
